@@ -1,0 +1,105 @@
+<div class="widget widget-new-products">
+    <div class="widget-title">
+        <h2>New Products</h2>
+    </div>
+    <div class="widget-products">
+                                <ul class="products-grid products-grid--max-5-col-widget">
+                            <li class="item last">
+                                                            <a href="http://127.0.0.1/nas_magento/index.php/ladies-bikes-47.html?___SID=U" title="ladies Bikes" class="product-image">
+                        <img src="http://127.0.0.1/nas_magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/1/6/16_1_1_1_1_1_1.jpg" alt="ladies Bikes" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://127.0.0.1/nas_magento/index.php/ladies-bikes-47.html?___SID=U" title="ladies Bikes">ladies Bikes</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-47-widget-new-grid">
+                                            <span class="price">$2,800.00</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://127.0.0.1/nas_magento/index.php/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/product/47/form_key/iiFZIwQW6y0I7hgQ/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://127.0.0.1/nas_magento/index.php/wishlist/index/add/product/47/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://127.0.0.1/nas_magento/index.php/catalog/product_compare/add/product/47/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://127.0.0.1/nas_magento/index.php/hybrid-bikes-45.html?___SID=U" title="Hybrid Bikes" class="product-image">
+                        <img src="http://127.0.0.1/nas_magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/y/hybrid4.jpg" alt="Hybrid Bikes" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://127.0.0.1/nas_magento/index.php/hybrid-bikes-45.html?___SID=U" title="Hybrid Bikes">Hybrid Bikes</a></h3>
+                        
+
+                <div class="price-box">
+            <p class="minimal-price">
+                                    <span class="price-label">Starting at:</span>
+                                                                        <span class="price" id="product-minimal-price-45-widget-new-grid">
+                    $387.00                </span>
+                            </p>
+        </div>
+                                                    <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://127.0.0.1/nas_magento/index.php/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/product/45/form_key/iiFZIwQW6y0I7hgQ/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://127.0.0.1/nas_magento/index.php/wishlist/index/add/product/45/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://127.0.0.1/nas_magento/index.php/catalog/product_compare/add/product/45/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://127.0.0.1/nas_magento/index.php/children-132.html?___SID=U" title="children" class="product-image">
+                        <img src="http://127.0.0.1/nas_magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/p/spin_1.jpg" alt="children" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://127.0.0.1/nas_magento/index.php/children-132.html?___SID=U" title="children">children</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-44-widget-new-grid">
+                                            <span class="price">$1,400.00</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://127.0.0.1/nas_magento/index.php/children-132.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://127.0.0.1/nas_magento/index.php/wishlist/index/add/product/44/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://127.0.0.1/nas_magento/index.php/catalog/product_compare/add/product/44/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://127.0.0.1/nas_magento/index.php/children3.html?___SID=U" title="children3" class="product-image">
+                        <img src="http://127.0.0.1/nas_magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/f/5/f5_1.jpeg" alt="children3" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://127.0.0.1/nas_magento/index.php/children3.html?___SID=U" title="children3">children3</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-38-widget-new-grid">
+                                            <span class="price">$180.00</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://127.0.0.1/nas_magento/index.php/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/product/38/form_key/iiFZIwQW6y0I7hgQ/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://127.0.0.1/nas_magento/index.php/wishlist/index/add/product/38/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://127.0.0.1/nas_magento/index.php/catalog/product_compare/add/product/38/uenc/aHR0cDovLzEyNy4wLjAuMS9uYXNfbWFnZW50by8,/form_key/iiFZIwQW6y0I7hgQ/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+</div>
